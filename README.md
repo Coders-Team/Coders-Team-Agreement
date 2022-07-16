@@ -2,8 +2,8 @@
 
 ## Team members
 
-- FUAD ABUAWAD (Team leader)
-- Mohammad Sarayrah
+- Mohammad Sarayrah (Team leader)
+- Fuad Abuawad
 - Alaaldin alhanini
 - Mohammad Sarayrah
 - Bashar Owainat
@@ -77,7 +77,7 @@
 
 - The components of our project will live on GitHub is :
     - Documentation
-    - Asp.Net backend And frontend
+    - Asp.Net with Angular backend And frontend
     - Service Api project management
     - ER diagram
     - Wireframe
