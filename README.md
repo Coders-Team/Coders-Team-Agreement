@@ -5,7 +5,6 @@
 - Mohammad Sarayrah (Team leader)
 - Fuad Abuawad
 - Alaaldin alhanini
-- Mohammad Sarayrah
 - Bashar Owainat
 
 ## Cooperation Plan
