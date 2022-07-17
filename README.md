@@ -72,6 +72,10 @@
 
 [project plan doc](https://docs.google.com/presentation/d/1AoFjNXPxixaFS8vYzG_Z89BbsYqOeeBFo2Mv1MIImCE/edit?usp=sharing)
 
+## Tools 
+
+[Trello](https://trello.com/warehousemanagementsystem5)
+
 ## Git Process
 
 - The components of our project will live on GitHub is :
