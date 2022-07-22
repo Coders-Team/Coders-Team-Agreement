@@ -2,8 +2,9 @@
 
 ## Team members
 
-- Mohammad Sarayrah (Team leader)
-- Fuad Abuawad
+
+- Fuad Abuawad (Team leader)
+- Mohammad Sarayrah 
 - Alaaldin alhanini
 - Bashar Owainat
 
